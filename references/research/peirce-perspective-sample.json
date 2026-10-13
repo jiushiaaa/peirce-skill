@@ -1,0 +1,257 @@
+{
+  "source_hashes": [
+    {
+      "url": "https://www.peirce.org/writings/p119.html",
+      "sha256": "aa7182ecb5fdeb5cd9a7dc16e3b37495d18f7e0af70c53d305b6000df7cad1b1"
+    },
+    {
+      "url": "https://www.peirce.org/writings/p107.html",
+      "sha256": "a863f3910a6683b904769f48334a32ada22e9be998b1fd6f22ddc9a15df4caac"
+    }
+  ],
+  "pool_size": 30,
+  "sample_count": 20,
+  "sample_seed": 20261013,
+  "records": [
+    {
+      "work": "The Fixation of Belief, 1877, English transcription",
+      "url": "https://www.peirce.org/writings/p107.html",
+      "html_p_index_zero_based": 13,
+      "sha256_normalized_paragraph": "95a2f6692b65064b158469c785cfc3a33f58b549a43992cf910577230cb77b8b",
+      "words": 165,
+      "sentences": 6,
+      "question_sentences": 0,
+      "first_person_tokens": 0,
+      "contrast_tokens": 1
+    },
+    {
+      "work": "The Fixation of Belief, 1877, English transcription",
+      "url": "https://www.peirce.org/writings/p107.html",
+      "html_p_index_zero_based": 3,
+      "sha256_normalized_paragraph": "7f5681fe129d83f16e7e3360abcb9f798f5c0538dfadfb3e3d09bd066c089e95",
+      "words": 126,
+      "sentences": 6,
+      "question_sentences": 0,
+      "first_person_tokens": 0,
+      "contrast_tokens": 1
+    },
+    {
+      "work": "How to Make Our Ideas Clear, 1878, English transcription",
+      "url": "https://www.peirce.org/writings/p119.html",
+      "html_p_index_zero_based": 22,
+      "sha256_normalized_paragraph": "0f51c078d17acadc20224157c35b70423d77ddc53b8616e7b64b2aef04de76ec",
+      "words": 91,
+      "sentences": 5,
+      "question_sentences": 0,
+      "first_person_tokens": 0,
+      "contrast_tokens": 1
+    },
+    {
+      "work": "The Fixation of Belief, 1877, English transcription",
+      "url": "https://www.peirce.org/writings/p107.html",
+      "html_p_index_zero_based": 10,
+      "sha256_normalized_paragraph": "5d34bf2b0c1a1745f8ae0e09045482fed515a05838a4d8ee9973eb36c9181023",
+      "words": 171,
+      "sentences": 8,
+      "question_sentences": 0,
+      "first_person_tokens": 0,
+      "contrast_tokens": 1
+    },
+    {
+      "work": "The Fixation of Belief, 1877, English transcription",
+      "url": "https://www.peirce.org/writings/p107.html",
+      "html_p_index_zero_based": 18,
+      "sha256_normalized_paragraph": "71a340d646a3005f60c228215b58e9464d1cb40fb54992d303934b0e500e5dfe",
+      "words": 73,
+      "sentences": 3,
+      "question_sentences": 0,
+      "first_person_tokens": 0,
+      "contrast_tokens": 1
+    },
+    {
+      "work": "How to Make Our Ideas Clear, 1878, English transcription",
+      "url": "https://www.peirce.org/writings/p119.html",
+      "html_p_index_zero_based": 36,
+      "sha256_normalized_paragraph": "26974bc9250647deeec15a75082f8b57131e179225846fc793d0ae7aa14033e1",
+      "words": 33,
+      "sentences": 1,
+      "question_sentences": 0,
+      "first_person_tokens": 2,
+      "contrast_tokens": 1
+    },
+    {
+      "work": "The Fixation of Belief, 1877, English transcription",
+      "url": "https://www.peirce.org/writings/p107.html",
+      "html_p_index_zero_based": 4,
+      "sha256_normalized_paragraph": "9707da4fb79ae7cc790bb64e1a27c3d0cb430e7781682099181f69a01b25a227",
+      "words": 107,
+      "sentences": 3,
+      "question_sentences": 0,
+      "first_person_tokens": 0,
+      "contrast_tokens": 1
+    },
+    {
+      "work": "How to Make Our Ideas Clear, 1878, English transcription",
+      "url": "https://www.peirce.org/writings/p119.html",
+      "html_p_index_zero_based": 5,
+      "sha256_normalized_paragraph": "6d586f1802169ac4dcb3e74aa003ad08f3d0738d748ed2ed364e8d33045716ff",
+      "words": 175,
+      "sentences": 5,
+      "question_sentences": 0,
+      "first_person_tokens": 1,
+      "contrast_tokens": 0
+    },
+    {
+      "work": "The Fixation of Belief, 1877, English transcription",
+      "url": "https://www.peirce.org/writings/p107.html",
+      "html_p_index_zero_based": 2,
+      "sha256_normalized_paragraph": "ee863ddabf1f2d881f60df453ef4c48b1bc39ffc66e97620ab0fc48d5e5b256b",
+      "words": 41,
+      "sentences": 2,
+      "question_sentences": 0,
+      "first_person_tokens": 1,
+      "contrast_tokens": 1
+    },
+    {
+      "work": "The Fixation of Belief, 1877, English transcription",
+      "url": "https://www.peirce.org/writings/p107.html",
+      "html_p_index_zero_based": 41,
+      "sha256_normalized_paragraph": "457d96ea345790672df5347906b9b7f24f577cc757befe6f9301ad115b4c2fa5",
+      "words": 163,
+      "sentences": 6,
+      "question_sentences": 0,
+      "first_person_tokens": 0,
+      "contrast_tokens": 2
+    },
+    {
+      "work": "The Fixation of Belief, 1877, English transcription",
+      "url": "https://www.peirce.org/writings/p107.html",
+      "html_p_index_zero_based": 16,
+      "sha256_normalized_paragraph": "939f32c7550cf97591a9894018bccd933232477d6822c039810e1c6ed883cd3f",
+      "words": 32,
+      "sentences": 1,
+      "question_sentences": 0,
+      "first_person_tokens": 0,
+      "contrast_tokens": 0
+    },
+    {
+      "work": "How to Make Our Ideas Clear, 1878, English transcription",
+      "url": "https://www.peirce.org/writings/p119.html",
+      "html_p_index_zero_based": 3,
+      "sha256_normalized_paragraph": "f4d74d8ea300e740999754a1a87fb438fa26d20af49f4dbdd502413b65d17f6e",
+      "words": 43,
+      "sentences": 2,
+      "question_sentences": 0,
+      "first_person_tokens": 0,
+      "contrast_tokens": 0
+    },
+    {
+      "work": "How to Make Our Ideas Clear, 1878, English transcription",
+      "url": "https://www.peirce.org/writings/p119.html",
+      "html_p_index_zero_based": 24,
+      "sha256_normalized_paragraph": "838007dbf93ff2792de0474e4673f1b500ba51f12d2cf039e7bc6e264bdede54",
+      "words": 168,
+      "sentences": 7,
+      "question_sentences": 0,
+      "first_person_tokens": 0,
+      "contrast_tokens": 1
+    },
+    {
+      "work": "How to Make Our Ideas Clear, 1878, English transcription",
+      "url": "https://www.peirce.org/writings/p119.html",
+      "html_p_index_zero_based": 4,
+      "sha256_normalized_paragraph": "51957bf7e4e769320d699842e7053ecd8f00cc170fbc5fb6447082f3efb0d7c6",
+      "words": 176,
+      "sentences": 4,
+      "question_sentences": 0,
+      "first_person_tokens": 2,
+      "contrast_tokens": 3
+    },
+    {
+      "work": "How to Make Our Ideas Clear, 1878, English transcription",
+      "url": "https://www.peirce.org/writings/p119.html",
+      "html_p_index_zero_based": 2,
+      "sha256_normalized_paragraph": "0594fe1dacc61b375bfbef400820fd16a850ca63cd90fcee1dcae3d75508d932",
+      "words": 57,
+      "sentences": 2,
+      "question_sentences": 0,
+      "first_person_tokens": 0,
+      "contrast_tokens": 0
+    },
+    {
+      "work": "The Fixation of Belief, 1877, English transcription",
+      "url": "https://www.peirce.org/writings/p107.html",
+      "html_p_index_zero_based": 23,
+      "sha256_normalized_paragraph": "615b4374bbf8c094257f75fdcc69ef303d1f4f36ba298e51359e18640118a980",
+      "words": 36,
+      "sentences": 3,
+      "question_sentences": 0,
+      "first_person_tokens": 0,
+      "contrast_tokens": 0
+    },
+    {
+      "work": "How to Make Our Ideas Clear, 1878, English transcription",
+      "url": "https://www.peirce.org/writings/p119.html",
+      "html_p_index_zero_based": 37,
+      "sha256_normalized_paragraph": "c991f925756c8439d896e322faae3d628f9f4a519d7f312d8058e1e32e5e747f",
+      "words": 123,
+      "sentences": 2,
+      "question_sentences": 1,
+      "first_person_tokens": 1,
+      "contrast_tokens": 2
+    },
+    {
+      "work": "The Fixation of Belief, 1877, English transcription",
+      "url": "https://www.peirce.org/writings/p107.html",
+      "html_p_index_zero_based": 17,
+      "sha256_normalized_paragraph": "86d5d8f7552c55eda0aaa05643e60952fefe90bd97403251964b4510ecd92b4d",
+      "words": 108,
+      "sentences": 8,
+      "question_sentences": 0,
+      "first_person_tokens": 0,
+      "contrast_tokens": 1
+    },
+    {
+      "work": "How to Make Our Ideas Clear, 1878, English transcription",
+      "url": "https://www.peirce.org/writings/p119.html",
+      "html_p_index_zero_based": 29,
+      "sha256_normalized_paragraph": "490bef4722c1efaa5a4a10a720fdd7dda7e57934be6c43d8528f2ad55a7139c5",
+      "words": 114,
+      "sentences": 2,
+      "question_sentences": 0,
+      "first_person_tokens": 1,
+      "contrast_tokens": 0
+    },
+    {
+      "work": "How to Make Our Ideas Clear, 1878, English transcription",
+      "url": "https://www.peirce.org/writings/p119.html",
+      "html_p_index_zero_based": 26,
+      "sha256_normalized_paragraph": "e5b434a31f3a9638493420b251cbfe174150223b31c613fa58a0ee1000c80a6d",
+      "words": 174,
+      "sentences": 8,
+      "question_sentences": 0,
+      "first_person_tokens": 1,
+      "contrast_tokens": 2
+    }
+  ],
+  "metrics": {
+    "words": 2176,
+    "sentences": 84,
+    "question_sentences": 1,
+    "first_person_tokens": 9,
+    "contrast_tokens": 19,
+    "mean_words_per_sentence": 25.905,
+    "question_sentence_ratio": 0.0119,
+    "first_person_per_1000_words": 4.136,
+    "contrast_per_1000_words": 8.732
+  },
+  "analogy_density": null,
+  "certainty_ratio": null,
+  "limitations": [
+    "Length-restricted sampling (30–180 words), not representative of the full work; Horkheimer uses ten eligible original paragraphs without length filtering.",
+    "Sentence boundary regex splits after punctuation; abbreviations/quoted questions may distort counts.",
+    "First-person and contrast are lexical counts, not manually coded rhetorical intentions.",
+    "Analogy density and certainty ratio not measured.",
+    "Electronic transcription not collated with first-edition page images."
+  ]
+}

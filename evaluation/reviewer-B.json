@@ -1,0 +1,101 @@
+{
+  "id": "peirce-perspective",
+  "known_positions": [
+    {
+      "q": 1,
+      "score": 10,
+      "reason": "严格同一全部可感后果时无概念区别，未将尚未发现区别当成全称证明。",
+      "source": "1878《如何使观念清楚》II–III；1877《信念的固定》II；核查状态见source_audit"
+    },
+    {
+      "q": 2,
+      "score": 10,
+      "reason": "局部反事实安排不表示自由意志双方处处正确，保留作者对一方否认事实的批评。",
+      "source": "1878《如何使观念清楚》II–III；1877《信念的固定》II；核查状态见source_audit"
+    },
+    {
+      "q": 3,
+      "score": 10,
+      "reason": "接受冲动不保证推理有效，且没有把或然推理全化为演绎。",
+      "source": "1878《如何使观念清楚》II–III；1877《信念的固定》II；核查状态见source_audit"
+    }
+  ],
+  "source_audit": [
+    {
+      "url": "https://www.peirce.org/writings/p119.html",
+      "status": "direct_read",
+      "scope": "HTTP直接读圣餐段及free-will局部论证；另107页II心理冲动及指导原则相邻段，非全篇。"
+    },
+    {
+      "url": "https://www.peirce.org/writings/p107.html",
+      "status": "direct_read",
+      "scope": "II心理接受冲动与有效性、习惯及指导原则相邻段。"
+    }
+  ],
+  "judge": "B",
+  "model": "unknown",
+  "voice": {
+    "score": 9,
+    "reason": "由可改变条件推向行动检验，组织清楚但接近通用可证伪主义；盲判波普尔优先，不能凭反证关键词给高口吻分。",
+    "blind_guess": {
+      "code": "N06",
+      "guess": "波普尔（低置信猜测）",
+      "confidence": 0.34,
+      "alternatives": [
+        "皮尔士",
+        "杜威"
+      ],
+      "formal_features": "把抽象讨论转成可执行的提问与观察，条件句及让步句清晰，但个人句法不突出。",
+      "content_clues": "反证、检验、指出能改变决定的情形，近于可证伪与纠错。",
+      "limits": "这种检验话语跨人物高度通用，猜测来自概念而非声音。"
+    },
+    "limits": "这种检验话语跨人物高度通用，猜测来自概念而非声音。 正式只用Q5，Q6不加分。"
+  },
+  "sources": {
+    "score": 14,
+    "reason": "来源列版本、已读局部及未读范围；本轮对已知题核查仅限source_audit，不把继承研究记录当本轮通读。",
+    "primary_ratio_basis": "四部独立作者论文/一项SEP约4/5。"
+  },
+  "structure": {
+    "score": 12,
+    "reason": "有执行动作、反例和停止条件；仍是局部解释框架，缺完整跨域验证，不按标题数量判成熟。",
+    "models": [
+      "概念的条件—后果澄清",
+      "信念固定机制识别",
+      "调查限度及再检验"
+    ],
+    "boundaries": [
+      "尚未想出差异不是永无差异",
+      "权威引用不自动封闭",
+      "1877/1878/1905及完整后期溯因不能混同"
+    ],
+    "tensions": [
+      "平息怀疑与逻辑有效性独立",
+      "信念停驻与新疑问再启动"
+    ]
+  },
+  "edge": {
+    "score": 20,
+    "reason": "统一开场说明人物模拟；Q4正文明确为当代迁移或推断，保留未知和所缺依据，没有伪装成作者历史表态。"
+  },
+  "paired_comparison": {
+    "code": "P08",
+    "blind_preference": "tie",
+    "mapped_preference": "tie",
+    "reasoning": "两者都将信念、行动、预期失败和调查相连，并要求实际疑问或真实不合才修订，模态同样谨慎。",
+    "expression": "first的反常—疑问—检验较紧凑；second比较预期与结果更操作化，末尾暂时停驻稍增加修辞。无明显总体胜者。",
+    "post_unblinding_issues": [
+      "已核Q6完整题干：习惯遮蔽注意只属可能；没有仅因原盲读未见题干而把条件疑点定为错误，保留初判。"
+    ],
+    "limits": "同题约百字的细微措辞变化不能证明更大的理论或风格改进。 R2为Q5、R3为Q6，不是单变量实验。"
+  },
+  "blockers": [],
+  "limitations": [
+    "中文短样本及少数题，不能代表全书、全时期或人类专家认证。",
+    "原作仅核查source_audit所列位置；其余研究阅读记录为继承材料，不声称本评审通读。"
+  ],
+  "total": 85,
+  "grade": "A",
+  "original_report_sha256": "1e5e31cd18cfcd6ef5911bbba26869409f25836702bfa17dfd153b3062158613",
+  "export_note": "Local read-path metadata omitted. Scores and judgments unchanged."
+}

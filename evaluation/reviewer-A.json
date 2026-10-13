@@ -1,0 +1,88 @@
+{
+  "id": "peirce-perspective",
+  "judge": "A",
+  "model": "unknown",
+  "known_positions": [
+    {
+      "q": 1,
+      "score": 10,
+      "reason": "区分尚未观察差别与一切可设想后果相同，不抹平未来条件。",
+      "source": "How to Make Our Ideas Clear L60–77直接核"
+    },
+    {
+      "q": 2,
+      "score": 10,
+      "reason": "反事实用于事实安排；特定两种安排相容不等于自由意志争论双方都对。",
+      "source": "同作L78–82直接核"
+    },
+    {
+      "q": 3,
+      "score": 10,
+      "reason": "相信的冲动不构成有效性，保留一般可靠推理而非只认演绎。",
+      "source": "Fixation II L24–31直接核"
+    }
+  ],
+  "voice": {
+    "score": 9,
+    "blind_guess": "皮尔士",
+    "reason": "低置信命中依赖信念检验主题；可执行反事实问法清楚，却很接近波普尔与一般方法建议。",
+    "limits": "首次盲猜与置信以已锁定A-blind.json为准；此单题组织高度共享，思想词不直接折算口吻，未做原语言文体认证。"
+  },
+  "edge": {
+    "score": 20,
+    "reason": "开场标明模拟，Q4正文明确区分框架迁移与作者真实立场，并保留事实及规范证据不足，未虚构当代意见。"
+  },
+  "sources": {
+    "score": 14,
+    "reason": "四部一手独立去重，书目信息与短定位足以追溯；未把检索、摘要当本轮全读。",
+    "primary_ratio_basis": "Fixation、Ideas Clear、What Pragmatism Is、Four Incapacities4部一手，SEP二手1，4/5。"
+  },
+  "structure": {
+    "score": 12,
+    "reason": "三个程序可执行但共同依赖疑惑、习惯及检验，第三不完全独立；不能仅由分栏断言三成熟模型。",
+    "models": [
+      "可设想实践后果澄清",
+      "四种信念固定方式诊断",
+      "一般条件下可纠错的持续探究"
+    ],
+    "boundaries": [
+      "眼前有用不等于真",
+      "心理必然不等于逻辑有效",
+      "不可把双方同等正确推广到全争论"
+    ],
+    "tensions": [
+      "探究平息疑惑／信念安定不保真",
+      "行动须暂定习惯／新经验可重新开启疑问"
+    ]
+  },
+  "total": 85,
+  "grade": "A",
+  "blockers": [],
+  "limitations": [
+    "单次离线答题、中文短段和局部原作核查不代表整个人格或全体系；直接打开不等于通读。",
+    "初次盲读缺完整题干，Q5/Q6共同题型容易诱发同构回答；辨识成功可能依赖概念线索，非纯文体命中。"
+  ],
+  "source_verification": [
+    {
+      "url": "https://www.peirce.org/writings/p119.html",
+      "status": "direct_partial",
+      "read": "L60–82英文相关段；不称通读"
+    },
+    {
+      "url": "https://www.peirce.org/writings/p107.html",
+      "status": "direct_partial",
+      "read": "II L24–31英文；其余新增作品及Q4材料继承"
+    }
+  ],
+  "paired_comparison": {
+    "code": "P08",
+    "blind_preference": "second",
+    "mapped_result": "r3_better",
+    "post_unblinding_issues": [
+      "设计限制：首次匿名包未附完整题干；现已核冻结Q5/Q6。Q6只称可能不留意，并未断言每一习惯已经有害。盲判的条件性措辞疑点保留为歧义，不自动升级为确定错误；不回写盲判。Q5充分理由是否指客观充分或当事人自认充分也未定义，询问检验条件不直接算偷换题设。"
+    ],
+    "basis": "保留哈希锁定A-paired-blind.json的reasoning、expression及limits；仅据paired-mapping-private.json映射版本，不倒改初评。"
+  },
+  "original_report_sha256": "036105923fe78af5444dab4a03bd8cfd13dbe53a751b0b6e7a0629764d18a91b",
+  "export_note": "Local read-path metadata omitted. Scores and judgments unchanged."
+}
